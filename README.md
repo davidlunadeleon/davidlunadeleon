@@ -4,13 +4,8 @@ I'm a Computer Science student at ITESM in Monterrey. I love software developmen
 
 ### What I'm up to right now
 
-On Github:
-
 - Taking the [Fullstack Open](https://fullstackopen.com/en/) course by the University of Helsinki to learn about React, GraphQL and Node.js. [Repository](https://github.com/davidlunadeleon/fullstackOpen2020).
 - Doing some [Leetcode](https://leetcode.com/davidlunadeleon/) problems. Currently, I'm trying to solve one problem per day. [Repository](https://github.com/davidlunadeleon/leetcode).
-
-Somewhere else:
-
 - Currently reading [Git Pro](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub to learn more about git.
 - Also taking the [Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/) course by The Linux Foundation.
 
