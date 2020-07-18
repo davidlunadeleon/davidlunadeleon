@@ -12,7 +12,7 @@ I'm a Computer Science student at ITESM in Monterrey. I love software developmen
 ### My previous work
 
 - Interned for a semester in Ternium. Data retrieval and normalization from an API for storage in SQL Server. Worked with PowerBI for analysis and reporting.
-- Did a Semestre i\* where worked building an API using Node.js, Express, MySQL and GraphQL. Experimented with AWS EC2 instances running on Linux to create test environments for the back and front-end teams. 
+- Did a Semestre i\* where I worked building an API using Node.js, Express, MySQL and GraphQL. Experimented with AWS EC2 instances running on Linux to create test environments for the back and front-end teams. 
 - Made a simple start page and use it daily. It can be found in [this repository](https://github.com/davidlunadeleon/startPage)
 
 \*Note: Semestre i is a type of semester where students work with a company to solve a challenge. Most of the time is used to come up with a solution and implement it. In my case, the challenge was IoT.
