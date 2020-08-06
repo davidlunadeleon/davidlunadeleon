@@ -6,7 +6,6 @@ I'm a Computer Science student at ITESM in Monterrey. I love software developmen
 
 - Taking the [Fullstack Open](https://fullstackopen.com/en/) course by the University of Helsinki to learn about React, GraphQL and Node.js. [Repository](https://github.com/davidlunadeleon/fullstackOpen2020).
 - Doing some [Leetcode](https://leetcode.com/davidlunadeleon/) problems. Currently, I'm trying to solve one problem per day. [Repository](https://github.com/davidlunadeleon/leetcode).
-- Currently reading [Git Pro](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub to learn more about git.
 - Currently reading [Algorithms in a Nutshell](https://www.oreilly.com/library/view/algorithms-in-a/9780596516246/) by George Heineman, Gary Pollice and Stanley Selkow
 ### My recent activity
 
