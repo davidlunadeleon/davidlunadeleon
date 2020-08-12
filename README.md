@@ -6,7 +6,9 @@ I'm a Computer Science student at ITESM in Monterrey. I love software developmen
 
 - Taking the [Fullstack Open](https://fullstackopen.com/en/) course by the University of Helsinki to learn about React, GraphQL and Node.js. [Repository](https://github.com/davidlunadeleon/fullstackOpen2020).
 - Doing some [Leetcode](https://leetcode.com/davidlunadeleon/) problems. Currently, I'm trying to solve one problem per day. [Repository](https://github.com/davidlunadeleon/leetcode).
-- Currently reading [Algorithms in a Nutshell](https://www.oreilly.com/library/view/algorithms-in-a/9780596516246/) by George Heineman, Gary Pollice and Stanley Selkow
+- Currently reading [Algorithms in a Nutshell](https://www.oreilly.com/library/view/algorithms-in-a/9780596516246/) by George Heineman, Gary Pollice and Stanley Selkow.
+- Currently reading The C Programming Language by Brian Kerninghan and Dennis Ritchie.
+
 ### My recent activity
 
 <details>
@@ -31,7 +33,7 @@ I'm a Computer Science student at ITESM in Monterrey. I love software developmen
 
 ### How to reach me
 
-You can find me at: [Linkedin](https://www.linkedin.com/in/david-luna-de-le%C3%B3n-36266913a/) | [Email](mailto:davidlunadeleon@gmail.com)
+You can find me at: [Linkedin](https://www.linkedin.com/in/david-luna-de-le%C3%B3n-36266913a/) | [Email](mailto:davidlunadeleon@gmail.com) | [GoodReads](https://www.goodreads.com/user/show/68157079-david-luna)
 
 <!--
 **davidlunadeleon/davidlunadeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
