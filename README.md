@@ -33,7 +33,7 @@ I'm a Computer Science student at ITESM in Monterrey. I love software developmen
 
 ### How to reach me
 
-You can find me at: [Linkedin](https://www.linkedin.com/in/david-luna-de-le%C3%B3n-36266913a/) | [Email](mailto:davidlunadeleon@gmail.com) | [GoodReads](https://www.goodreads.com/user/show/68157079-david-luna)
+You can find me at: [Linkedin](https://www.linkedin.com/in/david-luna-de-le%C3%B3n-36266913a/) | [Email](mailto:davidlunadeleon@gmail.com) | [GoodReads](https://www.goodreads.com/user/show/68157079-david-luna) | [Mastodon](https://mastodon.online/@davidlunadeleon)
 
 <!--
 **davidlunadeleon/davidlunadeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
