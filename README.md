@@ -2,34 +2,12 @@
 
 I'm a Computer Science student at ITESM in Monterrey. I love software development and learning, so I have a couple of repositories with experiments and material that I've used in my learning process.
 
-### What I'm up to right now
+### Stuff I have made
 
-- Taking the [Fullstack Open](https://fullstackopen.com/en/) course by the University of Helsinki to learn about React, GraphQL and Node.js. [Repository](https://github.com/davidlunadeleon/fullstackOpen2020).
-- Doing some [Leetcode](https://leetcode.com/davidlunadeleon/) problems. Currently, I'm trying to solve one problem per day. [Repository](https://github.com/davidlunadeleon/leetcode).
-- Making a [Gatsby](https://www.gatsbyjs.com/) blog template with React, Bootstrap and some other stuff. [Repository](https://github.com/davidlunadeleon/gatsby-blog-template). 
-- Currently reading The C Programming Language by Brian Kerninghan and Dennis Ritchie.
-
-### My recent activity
-
-<details>
-  <summary>Click me!</summary>
-  
-- Recently finished taking the [Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/) course by The Linux Foundation.
-  
-</details>
-
-### My previous work
-
-<details>
-  <summary>Click me!</summary>
-  
-- Interned for a semester in Ternium. Data retrieval and normalization from an API for storage in SQL Server. Worked with PowerBI for analysis and reporting.
-- Did a Semestre i\* where I worked building an API using Node.js, Express, MySQL and GraphQL. Experimented with AWS EC2 instances running on Linux to create test environments for the back and front-end teams. 
 - Made a simple start page and use it daily. It can be found in [this repository](https://github.com/davidlunadeleon/startPage)
-
-\*Note: Semestre i is a type of semester where students work with a company to solve a challenge. Most of the time is used to come up with a solution and implement it. In my case, the challenge was IoT.
-  
-</details>
+- Made a [Gatsby](https://www.gatsbyjs.com/) blog template with React, Bootstrap and some other stuff. [Repository](https://github.com/davidlunadeleon/gatsby-blog-template). 
+- Programmed a simple Sudoku puzzle solver with C++. [Repository](https://github.com/davidlunadeleon/sudoku-solver)
+- Programmed a Sokoban solver with C++. [Repository](https://github.com/davidlunadeleon/sokoban-solver)
 
 ### How to reach me
 
