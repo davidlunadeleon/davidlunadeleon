@@ -2,6 +2,11 @@
 
 I'm a Computer Science student at ITESM in Monterrey. I love software development and learning, so I have a couple of repositories with experiments and material that I've used in my learning process.
 
+### Stuff I'm currently working on
+
+- A Backport of the Template Library from C++ for C, called c-template-library. [Repository](https://github.com/davidlunadeleon/c-template-library)
+- A Sudoku game made using the Godot Game Engine and programmed with GDScript. [Repository](https://github.com/davidlunadeleon/Sudoku)
+
 ### Stuff I have made
 
 - Made a simple start page and use it daily. It can be found in [this repository](https://github.com/davidlunadeleon/startPage)
