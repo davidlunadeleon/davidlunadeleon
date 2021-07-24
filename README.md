@@ -2,13 +2,8 @@
 
 I'm a Computer Science student at ITESM in Monterrey. I love software development and learning, so I have a couple of repositories with experiments and material that I've used in my learning process.
 
-### Stuff I'm currently working on
-
-- A Backport of the Template Library from C++ for C, called c-template-library. [Repository](https://github.com/davidlunadeleon/c-template-library)
-
 ### Stuff I have made
 
-- Made a simple start page and use it daily. It can be found in [this repository](https://github.com/davidlunadeleon/startPage)
 - Made a [Gatsby](https://www.gatsbyjs.com/) blog template with React, Bootstrap and some other stuff. [Repository](https://github.com/davidlunadeleon/gatsby-blog-template). 
 - Programmed a simple Sudoku puzzle solver with C++. [Repository](https://github.com/davidlunadeleon/sudoku-solver)
 - Programmed a Sokoban solver with C++. [Repository](https://github.com/davidlunadeleon/sokoban-solver)
