@@ -1,10 +1,10 @@
 ### Hi there, I'm David 👋
 
-I'm a Computer Science student at ITESM in Monterrey. I love software development and learning, so I have a couple of repositories with experiments and material that I've used in my learning process.
+I'm a Computer Science graduate. I love software development and learning, so I have a couple of repositories with experiments and material that I've used in my learning process.
 
 ### What I currently do
 
-- 🧑‍💻 Build software [@Kodda](https://kodda.mx/)
+- Currently I'm updating my website and creating a new personal website template. See more [here](https://github.com/davidlunadeleon/personal-website-template)
 
 ### Stuff I have made
 
@@ -12,10 +12,11 @@ I'm a Computer Science student at ITESM in Monterrey. I love software developmen
 - 🔢🖥️ Programmed a simple Sudoku puzzle solver with C++. [Repository](https://github.com/davidlunadeleon/sudoku-solver)
 - 🧩 Programmed a Sokoban solver with C++. [Repository](https://github.com/davidlunadeleon/sokoban-solver)
 - 🔢🎮 A Sudoku game made using the Godot Game Engine and programmed with GDScript. [Repository](https://github.com/davidlunadeleon/Sudoku)
+- An ArchLinux install script that fits my needs. [Repository](https://github.com/davidlunadeleon/arch_install_script)
 
 ### How to reach me
 
-You can find me at: [Linkedin](https://www.linkedin.com/in/david-luna-de-le%C3%B3n-36266913a/) | 📨[Email](mailto:davidlunadeleon@gmail.com)
+You can find me at: [Linkedin](https://www.linkedin.com/in/david-luna-de-le%C3%B3n-36266913a/)
 
 Visit my webiste: [https://www.davidlunadeleon.com/](https://www.davidlunadeleon.com/)
 
